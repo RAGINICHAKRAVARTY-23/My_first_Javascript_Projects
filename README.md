@@ -1,0 +1,2 @@
+# My_first_Javascript_Projects
+A collection of my first JavaScript projects and practice exercises. This repository documents my journey of learning JavaScript and building small interactive projects step by step.
